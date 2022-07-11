@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "529948235446",
+    "project_id": "online-food-ordering-ac81b",
+    "storage_bucket": "online-food-ordering-ac81b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:529948235446:android:0f71617eb49255adc53817",
+        "android_client_info": {
+          "package_name": "com.thecheekyllamacafe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "529948235446-8b0sn69kclhhv16ovccsafl40lkjeb6q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZ5bjp3AoQnbEXVUSLFiDKqciX9gBYZrA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "529948235446-8b0sn69kclhhv16ovccsafl40lkjeb6q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:529948235446:android:820c8ffa0702012fc53817",
+        "android_client_info": {
+          "package_name": "com.thecheekyllamacafe.online_food_ordering"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "529948235446-8b0sn69kclhhv16ovccsafl40lkjeb6q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZ5bjp3AoQnbEXVUSLFiDKqciX9gBYZrA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "529948235446-8b0sn69kclhhv16ovccsafl40lkjeb6q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
